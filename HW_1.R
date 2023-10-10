@@ -48,7 +48,7 @@ boxplot(App10$Percent,main='Percent of Votes In Favor'
         ,xlab='Percent', pch=20, horizontal=TRUE, col='indianred')
 fivenum(App10$Percent)
 
-
+7+2
 
 #Question Number 4:
 plot(App10$Percent,App10$Amount, main = 'Margin of passage in relation to cost',
